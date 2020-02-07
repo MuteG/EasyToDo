@@ -1,4 +1,7 @@
-﻿namespace EasyToDo
+﻿using System;
+using System.Windows;
+
+namespace EasyToDo
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -8,6 +11,11 @@
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void MainWindow_OnLoaded(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
