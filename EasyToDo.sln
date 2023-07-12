@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyToDo", "EasyToDo\EasyToDo.csproj", "{7C12E5E5-8A61-4657-AFD5-192EB16A6D5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyToDo", "EasyToDo\EasyToDo.csproj", "{9F8C1F77-0E65-4CF3-AF07-48C1C6BBE751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C12E5E5-8A61-4657-AFD5-192EB16A6D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C12E5E5-8A61-4657-AFD5-192EB16A6D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C12E5E5-8A61-4657-AFD5-192EB16A6D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C12E5E5-8A61-4657-AFD5-192EB16A6D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8C1F77-0E65-4CF3-AF07-48C1C6BBE751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8C1F77-0E65-4CF3-AF07-48C1C6BBE751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8C1F77-0E65-4CF3-AF07-48C1C6BBE751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8C1F77-0E65-4CF3-AF07-48C1C6BBE751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
